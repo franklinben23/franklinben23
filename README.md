@@ -1,7 +1,7 @@
 ### 👋 Hi there! My name is Franklin Benjamin. 
 
 <!--
-**franklinben23/franklinben23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**franklinben23/franklinben23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Some things about me:
 
@@ -11,7 +11,6 @@ Some things about me:
 
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: My entire coding journet has been fully self taught.
--->
 
 📫--CONTACT:
 
