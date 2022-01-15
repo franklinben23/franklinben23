@@ -9,7 +9,6 @@ Some things about me:
 - 🌱 I’m currently learning react.js, ruby, sql, python. 
 - 👯 I’m looking to collaborate on open source projects with coders on my level or higher
 
-- 😄 Pronouns: he/they
 - ⚡ Fun fact: My entire coding journet has been fully self taught.
 
 📫--CONTACT:
